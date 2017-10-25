@@ -1,5 +1,7 @@
 execute pathogen#infect()
 set number
+set t_Co=256
+set background=dark
 syntax on
 filetype plugin indent on
 colorscheme dracula
